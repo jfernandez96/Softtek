@@ -1,0 +1,17 @@
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\bin\Release\net6.0\Softtek.Repository.SqlServer.deps.json
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\bin\Release\net6.0\Softtek.Repository.SqlServer.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\bin\Release\net6.0\Softtek.Repository.SqlServer.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\bin\Release\net6.0\Softtek.Domain.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\bin\Release\net6.0\Softtek.Repository.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\bin\Release\net6.0\Softtek.Domain.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\bin\Release\net6.0\Softtek.Repository.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\Softtek.Repository.SqlServer.csproj.AssemblyReference.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\Softtek.Repository.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\Softtek.Repository.SqlServer.AssemblyInfoInputs.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\Softtek.Repository.SqlServer.AssemblyInfo.cs
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\Softtek.Repository.SqlServer.csproj.CoreCompileInputs.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\Softtek.Repository.SqlServer.csproj.CopyComplete
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\Softtek.Repository.SqlServer.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\refint\Softtek.Repository.SqlServer.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\Softtek.Repository.SqlServer.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository.SqlServer\obj\Release\net6.0\ref\Softtek.Repository.SqlServer.dll

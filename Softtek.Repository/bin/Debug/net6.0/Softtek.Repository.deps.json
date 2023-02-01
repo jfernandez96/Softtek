@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Softtek.Repository/1.0.0": {
+        "dependencies": {
+          "Softtek.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Softtek.Repository.dll": {}
+        }
+      },
+      "Softtek.Domain/1.0.0": {
+        "runtime": {
+          "Softtek.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Softtek.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Softtek.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

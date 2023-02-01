@@ -1,0 +1,11 @@
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Softtek.Service.exe
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\appsettings.Development.json
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\appsettings.json
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Softtek.Service.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Softtek.Service.deps.json
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Softtek.Service.runtimeconfig.json
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Softtek.Service.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Microsoft.OpenApi.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Service\public\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,12 @@
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\bin\Release\net6.0\Softtek.Domain.deps.json
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\bin\Release\net6.0\Softtek.Domain.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\bin\Release\net6.0\Softtek.Domain.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\Softtek.Domain.csproj.AssemblyReference.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\Softtek.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\Softtek.Domain.AssemblyInfoInputs.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\Softtek.Domain.AssemblyInfo.cs
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\Softtek.Domain.csproj.CoreCompileInputs.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\Softtek.Domain.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\refint\Softtek.Domain.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\Softtek.Domain.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Domain\obj\Release\net6.0\ref\Softtek.Domain.dll

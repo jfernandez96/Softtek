@@ -1,0 +1,12 @@
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\bin\Debug\net6.0\Softtek.Configuration.deps.json
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\bin\Debug\net6.0\Softtek.Configuration.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\bin\Debug\net6.0\Softtek.Configuration.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\Softtek.Configuration.csproj.AssemblyReference.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\Softtek.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\Softtek.Configuration.AssemblyInfoInputs.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\Softtek.Configuration.AssemblyInfo.cs
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\Softtek.Configuration.csproj.CoreCompileInputs.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\Softtek.Configuration.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\refint\Softtek.Configuration.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\Softtek.Configuration.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Configuration\obj\Debug\net6.0\ref\Softtek.Configuration.dll

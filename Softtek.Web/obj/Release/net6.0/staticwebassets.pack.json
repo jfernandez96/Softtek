@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Softtek.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Softtek.Web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\css\\Custumer.css",
+      "PackagePath": "staticwebassets\\css\\Custumer.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\css\\Plugins\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\css\\Plugins\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-Thin.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\fonts\\roboto\\Roboto-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\roboto\\Roboto-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\error-illustration.svg",
+      "PackagePath": "staticwebassets\\images\\error-illustration.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\illustration.svg",
+      "PackagePath": "staticwebassets\\images\\illustration.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\map-marker-dark.svg",
+      "PackagePath": "staticwebassets\\images\\map-marker-dark.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\map-marker-region-dark.svg",
+      "PackagePath": "staticwebassets\\images\\map-marker-region-dark.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\map-marker-region.svg",
+      "PackagePath": "staticwebassets\\images\\map-marker-region.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\map-marker.svg",
+      "PackagePath": "staticwebassets\\images\\map-marker.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\phone-illustration.svg",
+      "PackagePath": "staticwebassets\\images\\phone-illustration.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\placeholders\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\placeholders\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\placeholders\\200x200.jpg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\200x200.jpg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\placeholders\\800x800.jpg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\800x800.jpg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\preview-7.jpg",
+      "PackagePath": "staticwebassets\\images\\preview-7.jpg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\profile-3.jpg",
+      "PackagePath": "staticwebassets\\images\\profile-3.jpg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\profile-7.jpg",
+      "PackagePath": "staticwebassets\\images\\profile-7.jpg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\images\\woman-illustration.svg",
+      "PackagePath": "staticwebassets\\images\\woman-illustration.svg"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\App\\app.js",
+      "PackagePath": "staticwebassets\\js\\App\\app.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\App\\ckeditor-balloon-block.js",
+      "PackagePath": "staticwebassets\\js\\App\\ckeditor-balloon-block.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\App\\ckeditor-balloon.js",
+      "PackagePath": "staticwebassets\\js\\App\\ckeditor-balloon.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\App\\ckeditor-classic.js",
+      "PackagePath": "staticwebassets\\js\\App\\ckeditor-classic.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\App\\ckeditor-document.js",
+      "PackagePath": "staticwebassets\\js\\App\\ckeditor-document.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\App\\ckeditor-inline.js",
+      "PackagePath": "staticwebassets\\js\\App\\ckeditor-inline.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\App\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\App\\jquery.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\Plugins\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\js\\Plugins\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\ViewJs\\Globokas.js",
+      "PackagePath": "staticwebassets\\js\\ViewJs\\Globokas.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery-3.4.1.intellisense.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.intellisense.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery.validate-vsdoc.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate-vsdoc.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\modernizr-2.8.3.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.8.3.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\js\\webApp.js",
+      "PackagePath": "staticwebassets\\js\\webApp.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Softtek.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Softtek.Web.props",
+      "PackagePath": "build\\Softtek.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Softtek.Web.props",
+      "PackagePath": "buildMultiTargeting\\Softtek.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Softtek.Web.props",
+      "PackagePath": "buildTransitive\\Softtek.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

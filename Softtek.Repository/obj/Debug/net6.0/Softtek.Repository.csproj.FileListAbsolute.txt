@@ -1,0 +1,15 @@
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\bin\Debug\net6.0\Softtek.Repository.deps.json
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\bin\Debug\net6.0\Softtek.Repository.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\bin\Debug\net6.0\Softtek.Repository.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\bin\Debug\net6.0\Softtek.Domain.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\bin\Debug\net6.0\Softtek.Domain.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\Softtek.Repository.csproj.AssemblyReference.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\Softtek.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\Softtek.Repository.AssemblyInfoInputs.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\Softtek.Repository.AssemblyInfo.cs
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\Softtek.Repository.csproj.CoreCompileInputs.cache
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\Softtek.Repository.csproj.CopyComplete
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\Softtek.Repository.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\refint\Softtek.Repository.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\Softtek.Repository.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Repository\obj\Debug\net6.0\ref\Softtek.Repository.dll
