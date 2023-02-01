@@ -33,9 +33,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softtek.Configuration", "So
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softtek.Service", "Softtek.Service\Softtek.Service.csproj", "{3019E732-D997-437A-B1BE-4BA9609F2C6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softtek.BizLogic", "Softtek.BizLogic\Softtek.BizLogic.csproj", "{691CDB6A-6831-4851-9407-3415B85EBFA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softtek.BizLogic", "Softtek.BizLogic\Softtek.BizLogic.csproj", "{691CDB6A-6831-4851-9407-3415B85EBFA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softtek.Web", "Softtek.Web\Softtek.Web.csproj", "{A95CD2D4-B685-420D-AFB0-EB74AFA720D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Softtek.Web", "Softtek.Web\Softtek.Web.csproj", "{A95CD2D4-B685-420D-AFB0-EB74AFA720D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BD", "BD", "{69418975-74D7-4430-8363-EF31FB5AB145}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Script\BD_Softtek.sql = ..\..\Script\BD_Softtek.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
