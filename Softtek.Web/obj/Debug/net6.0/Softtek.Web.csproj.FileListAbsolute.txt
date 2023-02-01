@@ -247,3 +247,6 @@ D:\Jhonatan\Fuentes\Softtek\Softtek.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0
 D:\Jhonatan\Fuentes\Softtek\Softtek.Web\obj\Debug\net6.0\Softtek.Web.csproj.CopyComplete
 D:\Jhonatan\Fuentes\Softtek\Softtek.Web\bin\Debug\net6.0\Softtek.Domain.dll
 D:\Jhonatan\Fuentes\Softtek\Softtek.Web\bin\Debug\net6.0\Softtek.Domain.pdb
+D:\Jhonatan\Fuentes\Softtek\Softtek.Web\bin\Debug\net6.0\log4net.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Web\bin\Debug\net6.0\Softtek.Common.dll
+D:\Jhonatan\Fuentes\Softtek\Softtek.Web\bin\Debug\net6.0\Softtek.Common.pdb

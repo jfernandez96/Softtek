@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QTThcwn9oGNKKkkzHv3aRA/h3qw9q4EzqqpvaQFBMlWBAShFhBbXem32xFmzEONjOXwCC57JjEnJUHz1u/2N2w==",
+  "dgSpecHash": "4ArcnWpdysUoT+DXaE8PA3iTOL5Nqoc8KAnTVM6eqp7KGLJfW0Fe16lV0jHvD82PoyAPe8k8NpRu8PDwVWdyEQ==",
   "success": true,
   "projectFilePath": "D:\\Jhonatan\\Fuentes\\Softtek\\Softtek.Web\\Softtek.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jfern\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\jfern\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\jfern\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\jfern\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\jfern\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",

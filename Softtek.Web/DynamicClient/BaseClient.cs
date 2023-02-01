@@ -6,8 +6,7 @@ using System;
 using System.IO;
 using System.Net;
 
-
-namespace Softtek.Configuration.DynamicClient
+namespace Softtek.Web.DynamicClient
 {
     public class BaseClient
     {
@@ -43,7 +42,7 @@ namespace Softtek.Configuration.DynamicClient
         /// <returns></returns>
         public static BaseResponse PostServiceClient<T>(HttpWebRequest wsRequest, T itemRequest)
         {
-            ILog logService = LogManager.GetLogger("GlobokasWeb");
+            ILog logService = LogManager.GetLogger("SofttekWeb");
 
             BaseResponse result = new BaseResponse();
 
@@ -122,7 +121,7 @@ namespace Softtek.Configuration.DynamicClient
 
         public static BaseResponse PostServiceClient<T>(HttpWebRequest wsRequest)
         {
-            ILog logService = LogManager.GetLogger("GlobokasWeb");
+            ILog logService = LogManager.GetLogger("SofttekWeb");
 
             BaseResponse result = new BaseResponse();
 
